@@ -5,5 +5,6 @@ public class Lec1 {
             System.out.print(ch);
         }
         System.out.println("This is the main branch");
+        System.out.println("A little confusion");
     }
 }
