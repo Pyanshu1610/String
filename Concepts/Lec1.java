@@ -4,5 +4,6 @@ public class Lec1 {
         for(char ch:arr){
             System.out.print(ch);
         }
+        System.out.println("This is the branch i want");
     }
 }
